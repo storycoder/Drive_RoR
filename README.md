@@ -10,4 +10,11 @@ More to come ...
 
 
 ##RESOURCES
+[Codecademy](https://www.codecademy.com/)
+[Cloud9](https://c9.io/)
+[Ruby Documentation](https://www.ruby-lang.org/en/)
+[Rails Guides](http://guides.rubyonrails.org/)
+
+
+##Helpful Links
 [37 Sites You LOVE Built With Ruby On Rails](http://skillcrush.com/2015/02/02/37-rails-sites/)
