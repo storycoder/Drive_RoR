@@ -1,7 +1,9 @@
 # Drive Ruby on Rails Course
 
-Welcome to the Drive Course Ruby on Rails course notes page. This repository will store class notes in the Wiki section and any additional programs we will write in when using the Cloud9 development enviroment in class. 
+Welcome to the Drive - Ruby on Rails course notes repository. Please use the soon to be created Wiki to reviews class notes. 
 
-Along with that, I will periodically post links in this README to helpful resources for giving conceptual and hands on insights about what makes Ruby on Rails a great language!
+Also look for the code to any programs we create together to be pushed to this particular space. 
+
+Along with that, I will periodically post links in this README to helpful resources for problem solving and that lend conceptual and hands on insights about what makes Ruby on Rails a great language!
 
 More to come ...
