@@ -7,3 +7,7 @@ Also look for the code to any programs we create together to be pushed to this p
 Along with that, I will periodically post links in this README to helpful resources for problem solving and that lend conceptual and hands on insights about what makes Ruby on Rails a great language!
 
 More to come ...
+
+
+##RESOURCES
+[37 Sites You LOVE Built With Ruby On Rails](http://skillcrush.com/2015/02/02/37-rails-sites/)
