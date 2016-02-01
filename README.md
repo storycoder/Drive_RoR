@@ -1,1 +1,1 @@
-# Drive_RoR
+Drive Ruby on Rails Course
