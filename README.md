@@ -6,6 +6,8 @@ Also look for the code to any programs we create together to be pushed to this p
 
 Along with that, I will periodically post links in this README to helpful resources for problem solving and that lend conceptual and hands on insights about what makes Ruby on Rails a great language!
 
+Your input is important, so if you have any suggestions please email me at [meetjosephmargolis@gmail.com](mailto:meetjosephmargolis@gmail.com)
+
 More to come ...
 
 
