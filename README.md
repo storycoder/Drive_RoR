@@ -15,6 +15,7 @@ More to come ...
 * [Codecademy](https://www.codecademy.com/)
 * [Cloud9](https://c9.io/)
 * [Ruby Documentation](https://www.ruby-lang.org/en/)
+* [More Ruby Documenation](http://ruby-doc.org/)
 * [Rails Guides](http://guides.rubyonrails.org/)
 
 
