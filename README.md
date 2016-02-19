@@ -20,6 +20,7 @@ Please join the [O'Berry Ruby Forum](https://groups.google.com/forum/#!forum/obe
 * [More Ruby Documenation](http://ruby-doc.org/)
 * [Rails Guides](http://guides.rubyonrails.org/)
 * [O'Berry Ruby Help Forum](https://groups.google.com/forum/#!forum/oberryruby)
+* [Helpful Resources for Learning to Use Github](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
 
 ##Helpful Links
