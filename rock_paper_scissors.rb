@@ -1,7 +1,7 @@
 #We will be writing this together in our cloud9 workspaces this Tuesday.
 
 comp_choices = ["rock", "paper", "scissors"]
-puts "Welcome Rock, Paper, Scissors"
+puts "Welcome To Rock, Paper, Scissors"
 puts " "
 puts "What's your name? "
 name = gets.chomp.capitalize
@@ -16,8 +16,6 @@ comp_score = 0
 until answer == "quit"
 	if answer == comp_answer
 		puts "Tie!"
-	elsif answer != comp_choices
-		puts "Oops! #{name}, you must enter 'rock', 'paper', or 'scissors': "
 	elsif answer == "rock" && comp_answer == comp_choices[2]
 		puts "Congratulations #{name}! You win!"
 		user_score += 1
@@ -36,6 +34,8 @@ until answer == "quit"
 	elsif answer == "scissors" && comp_answer == comp_choices[0]
 		puts "Sorry #{name}, but I win!"
 		comp_score += 1
+	elsif answer != comp_choices
+		puts "Oops! #{name}, you must enter 'rock', 'paper', or 'scissors': "
 	else
 	end
 
