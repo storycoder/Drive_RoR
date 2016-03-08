@@ -25,6 +25,7 @@ Please join the [O'Berry Ruby Forum](https://groups.google.com/forum/#!forum/obe
 
 ##Helpful Links
 * [37 Sites You LOVE Built With Ruby On Rails](http://skillcrush.com/2015/02/02/37-rails-sites/)
+* [The White House Wants You to Build Tools to Improve Our Cities](http://www.wired.com/2016/03/white-house-wants-build-tech-tools-data/) - Wired Magazine, 3/7/2016
 
 ##Interesting Innovators
 * [IBM Leads the Way in the Post-PC Era by Mark Dean](http://asmarterplanet.com/blog/2011/08/ibm-leads-the-way-in-the-post-pc-era.html)
