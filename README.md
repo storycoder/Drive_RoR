@@ -25,3 +25,6 @@ Please join the [O'Berry Ruby Forum](https://groups.google.com/forum/#!forum/obe
 
 ##Helpful Links
 * [37 Sites You LOVE Built With Ruby On Rails](http://skillcrush.com/2015/02/02/37-rails-sites/)
+
+##Interesting Innovators
+* [IBM Leads the Way in the Post-PC Era by Mark Dean](http://asmarterplanet.com/blog/2011/08/ibm-leads-the-way-in-the-post-pc-era.html)
