@@ -28,3 +28,5 @@ Please join the [O'Berry Ruby Forum](https://groups.google.com/forum/#!forum/obe
 
 ##Interesting Innovators
 * [IBM Leads the Way in the Post-PC Era by Mark Dean](http://asmarterplanet.com/blog/2011/08/ibm-leads-the-way-in-the-post-pc-era.html)
+* [Hedy Lamarr's Wikipedia entry](https://en.wikipedia.org/wiki/Hedy_Lamarr)
+* [Katherine Johnson's Wikipedia entry](https://en.wikipedia.org/wiki/Katherine_Johnson)
