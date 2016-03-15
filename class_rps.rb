@@ -25,9 +25,26 @@ until answer == "quit"
     elsif answer == "scissors" && comp_answer[0]
         puts "Rock crushes scissors, I win!"
         comp_score += 1
-        #more elsifs needed
-    end  
+    elsif answer == "scissors" && comp_answer[1]
+        puts "Scissors cuts paper, You win!"
+        user_score += 1
+    elsif  answer == "paper" && comp_answer[0]
+        puts "Paper covers rock. You win!"
+        user_score += 1
+    elsif answer == "paper" && comp_answer[2]
+        puts "Scissors cuts paper. I win!"
+        comp_score +=1
+    elsif answer != comp_choices
+        puts "Please type 'rock', 'paper', or 'scissors'."
+    else
+    end
+    puts "You have #{user_score} points and I have #{comp_score} points."
+    if comp_score == 3
+        puts "I win the game! Losers go home!!"
+        break
+    elsif user_score == 3
+        puts "You win the game! I'm such a loser!!"
+        break
+    end
+    #need to include a way to quit and to stop the infinite loop. 
 end
-
-
-
