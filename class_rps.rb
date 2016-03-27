@@ -46,5 +46,12 @@ until answer == "quit"
         puts "You win the game! I'm such a loser!!"
         break
     end
-    #need to include a way to quit and to stop the infinite loop. 
+    puts ""
+    puts "Type quit to end the game or rock, paper, scissors to keep playing. "
+    answer = gets.chomp.downcase
+    comp_answer = comp_choices.sample
+    
 end
+
+
+
